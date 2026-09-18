@@ -1,7 +1,8 @@
 ---
  layout: default
  title: "2026 draft content" 
- nav_order: 3 
+ nav_order: 3
+ nav_exclude: true
 ---
 
 This is the source that most of the following material is obtained from:
@@ -73,7 +74,7 @@ or [Word Processor Plugin
 Troubleshooting](https://www.zotero.org/support/word_processor_plugin_troubleshooting).
 
 <img src="images/6c671cf2ecf2ecf4d68bdb8b7217113b18e3da03.png"
-style="width:3.30208in;height:2.60886in" />
+style="width:6in" />
 
 ### Optional Step: Zotero Mobile App
 
