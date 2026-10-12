@@ -2,6 +2,7 @@
  layout: default
  title: Citation Management Research Guide
  nav_order: 7
+ nav_exclude: true
 ---
 
 Citation Management Research Guide
