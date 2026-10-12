@@ -2,6 +2,7 @@
  layout: default
  title: Setup
  nav_order: 5
+ nav_exclude: true
 ---
 
 ## Installing the software
