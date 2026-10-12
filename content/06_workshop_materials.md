@@ -2,7 +2,7 @@
 layout: default
 title: Workshop Materials
 nav_order: 6
-published: true
+nav_exclude: true
 ---
 
 ## Workshop Materials
