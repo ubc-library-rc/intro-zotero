@@ -5,11 +5,14 @@ nav_order: 20
 ---
 ## Resources
 
+- [Sample files for practice](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/CM_Workshop_Practice_files.zip)
+- [UBC Library Citation Management Guide](https://guides.library.ubc.ca/citationmanagement)
 - [Book a consultation](https://researchcommons.library.ubc.ca/consultation-requests/)
 - [View upcoming workshops](https://researchcommons.library.ubc.ca/workshops/)
 - [Guides for all sorts of research and analysis](https://guides.library.ubc.ca/menu)
 - [All Workshops (GitHub)](https://github.com/orgs/ubc-library-rc/repositories)
 - [UBC Research Commons home page](https://researchcommons.library.ubc.ca/)
+- [Citation Management Software Comparison](https://research-commons-2019.sites.olt.ubc.ca/files/2022/06/Research-Commons-Citation-Management-Tools-Comparison-Table-1.pdf).
 
 
 ## Acknowledgements
