@@ -14,3 +14,7 @@ Zotero is a free and open-source bibliography builder that helps you collect, or
 - create bibliographies with Zotero
 - manage PDF documents with Zotero
 - collaborate with colleagues using social-networking features in Zotero.
+
+## NOTICE: 
+
+Systematic downloading or harvesting articles, citations, metadata (e.g. using citation managers such as Zotero or Mendeley) is strictly prohibited. You must contact [lib-license@lists.ubc.ca](mailto:lib-license@lists.ubc.ca). Permission is required or a Text and Data Mining Package should be purchased.
