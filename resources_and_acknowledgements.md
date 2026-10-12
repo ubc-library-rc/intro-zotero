@@ -5,7 +5,7 @@ nav_order: 20
 ---
 ## Resources
 
-- [Sample files for practice - Right-click to save](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/CM_Workshop_Practice_files.zip)
+- [Sample files for practice (right-click to save)](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/CM_Workshop_Practice_files.zip)
 - [UBC Library Citation Management Guide](https://guides.library.ubc.ca/citationmanagement)
 - [Book a consultation](https://researchcommons.library.ubc.ca/consultation-requests/)
 - [View upcoming workshops](https://researchcommons.library.ubc.ca/workshops/)
