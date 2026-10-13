@@ -16,5 +16,6 @@ Zotero is a free and open-source bibliography builder that helps you collect, or
 - Assess whether Zotero is the right citation management tool for your research. ​
 
 ## NOTICE: 
+> **Note on sources:** Most of the content in this guide is adapted from the [official Zotero documentation](https://www.zotero.org/support/). Some of the information there may refer to previous versions of Zotero, so the interface or steps you see may differ slightly from what is described here. For the most current instructions, please consult the official documentation.
 
 Systematic downloading or harvesting articles, citations, metadata (e.g. using citation managers such as Zotero or Mendeley) is strictly prohibited. You must contact [lib-license@lists.ubc.ca](mailto:lib-license@lists.ubc.ca). Permission is required or a Text and Data Mining Package should be purchased.
