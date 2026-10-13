@@ -1,10 +1,9 @@
 ---
  layout: default
- title: "Organizing and Taking Notes" 
+ title: "Organizing Your Library" 
  nav_order: 5
 ---
 
-# Organizing and Taking Notes
 {: .no_toc }
 
 <details open markdown="block">
@@ -41,7 +40,7 @@ not their collection placements. Both organizational methods have unique
 advantages and features. Experiment with both to see what works best for
 your own workflow.
 
-## Collections[\#](https://www.zotero.org/support/collections_and_tags#collections)
+# Collections[\#](https://www.zotero.org/support/collections_and_tags#collections)
 
 It is important to understand that items can belong to multiple
 collections and subcollections. Adding an item to multiple collections
@@ -50,7 +49,7 @@ music playlists than folders in your computer filesystem. Just as a
 single song can be added to more than one playlist, a single item in a
 Zotero library can be added to multiple collections.
 
-### Creating Collections[\#](https://www.zotero.org/support/collections_and_tags#creating_collections)
+## Creating Collections[\#](https://www.zotero.org/support/collections_and_tags#creating_collections)
 
 Click the “New Collection…” button
 (<img src="images/609e7725909f58c0e75bdcce46650277d5730ee1.png"
@@ -74,7 +73,7 @@ you have editing privileges for the destination library, the collection
 (and all of its items and subcollections) will be added to the
 destination library.
 
-### Adding Items to Collections[\#](https://www.zotero.org/support/collections_and_tags#adding_items_to_collections)
+## Adding Items to Collections[\#](https://www.zotero.org/support/collections_and_tags#adding_items_to_collections)
 
 New items are automatically saved into the collection selected at the
 time. When saving from the browser, you can choose a different
@@ -93,7 +92,7 @@ belong to any collection in your library, open the [<u>Unfiled
 Items</u>](https://www.zotero.org/support/collections_and_tags#unfiled_items)
 special collection.
 
-### Renaming Collections[\#](https://www.zotero.org/support/collections_and_tags#renaming_collections)
+## Renaming Collections[\#](https://www.zotero.org/support/collections_and_tags#renaming_collections)
 
 Right-click on the collection and choose “Rename Collection…” to give a
 collection a new name. Collections are sorted alphabetically in your
@@ -103,7 +102,7 @@ the list.
 <img src="images/4569d49191309263a14f601604fd52645449eae2.png"
 style="width:3.97972in;height:4.72983in" />
 
-### Deleting Collections[\#](https://www.zotero.org/support/collections_and_tags#deleting_collections)
+## Deleting Collections[\#](https://www.zotero.org/support/collections_and_tags#deleting_collections)
 
 Right-click on the collection and choose “Delete Collection…” to remove
 a collection from your library. Deleting a collection **does not
@@ -122,7 +121,7 @@ collection and choose “Delete Collection and Items…”.
 <img src="images/7ce20eb6707389914c7f8164d1b975a28c205a65.png"
 style="width:4.21934in;height:4.60481in" />
 
-### Removing Items from a Collection[\#](https://www.zotero.org/support/collections_and_tags#removing_items_from_a_collection)
+## Removing Items from a Collection[\#](https://www.zotero.org/support/collections_and_tags#removing_items_from_a_collection)
 
 Select a collection in the left Zotero pane, then select the items in
 the center pane that you want to remove from the collection. Press the
@@ -141,7 +140,7 @@ the items directly to the trash.
 <img src="images/7baece29682327226b009dbc46a61357cf7800cd.png"
 style="width:6.5in;height:4.0625in" />
 
-### Identifying Collections an Item is In[\#](https://www.zotero.org/support/collections_and_tags#identifying_collections_an_item_is_in)
+## Identifying Collections an Item is In[\#](https://www.zotero.org/support/collections_and_tags#identifying_collections_an_item_is_in)
 
 Zotero 7 and higher versions include a section in the item pane showing
 a list of collections an item is in. You can also select the item and
@@ -152,7 +151,7 @@ collections that contain the selected item.
 <img src="images/6260500bc50e0342e40d8305b28ec9e41b7d7cb5.png"
 style="width:6.5in;height:1.90625in" />
 
-### Saved Searches[\#](https://www.zotero.org/support/collections_and_tags#saved_searches)
+## Saved Searches[\#](https://www.zotero.org/support/collections_and_tags#saved_searches)
 
 [<u>Saved
 Searches</u>](https://www.zotero.org/support/searching#saved_searches)
@@ -168,9 +167,9 @@ style="width:2.19345in;height:1.67648in" /> | <img src="images/4608f2cde439b77c1
 style="width:3.34855in;height:1.60099in" /> |
 |----|----|
 
-### 
+## 
 
-### Special Collections[\#](https://www.zotero.org/support/collections_and_tags#special_collections)
+## Special Collections[\#](https://www.zotero.org/support/collections_and_tags#special_collections)
 
 Zotero has four special collections: “My Publications”, “Duplicate
 Items”, “Unfiled Items”, and “Trash” which is listed on the left pane.
@@ -178,7 +177,7 @@ Items”, “Unfiled Items”, and “Trash” which is listed on the left pane.
 <img src="images/c1ad9aab168b5898b4daa855b1cb8252d9c339a1.png"
 style="width:1.70857in;height:1.27101in" />
 
-#### My Publications[\#](https://www.zotero.org/support/collections_and_tags#my_publications)
+### My Publications[\#](https://www.zotero.org/support/collections_and_tags#my_publications)
 
 The [<u>My
 Publications</u>](https://www.zotero.org/support/my_publications)
@@ -199,7 +198,7 @@ style="width:6.29167in;height:6.5in" />
 <img src="images/4323ad0d3fed1be65d31b82e0c1865caae9a5486.png"
 style="width:6.25087in;height:6.46965in" />
 
-#### Duplicate Items[\#](https://www.zotero.org/support/collections_and_tags#duplicate_items)
+### Duplicate Items[\#](https://www.zotero.org/support/collections_and_tags#duplicate_items)
 
 The [<u>Duplicate
 Items</u>](https://www.zotero.org/support/duplicate_detection) special
@@ -209,7 +208,7 @@ the same item more than once. For example, you might save the same item
 twice from a webpage or import an item that is already in your library.
 You can use this collection to review and merge duplicate items.
 
-##### Finding Duplicates[\#](https://www.zotero.org/support/duplicate_detection#finding_duplicates)
+#### Finding Duplicates[\#](https://www.zotero.org/support/duplicate_detection#finding_duplicates)
 
 Clicking on the “Duplicate Items” collection in your library will show
 the items Zotero thinks are duplicates in the center pane.
@@ -233,7 +232,7 @@ items</u>](https://www.zotero.org/support/groups#interact_with_groups_through_th
 They won’t show up in the “Duplicate Items” collection of any one of the
 libraries.
 
-##### Merging Duplicates[\#](https://www.zotero.org/support/duplicate_detection#merging_duplicates)
+#### Merging Duplicates[\#](https://www.zotero.org/support/duplicate_detection#merging_duplicates)
 
 You should always resolve duplicate items by merging them, rather than
 deleting one of the duplicates. Merges will retain all of the
@@ -269,7 +268,7 @@ from the context menu.
 <img src="images/73c08df913efdfdaf50addce925d5aa2315160d5.png"
 style="width:6.5in;height:4.125in" />
 
-#### Unfiled Items[\#](https://www.zotero.org/support/collections_and_tags#unfiled_items)
+### Unfiled Items[\#](https://www.zotero.org/support/collections_and_tags#unfiled_items)
 
 Items that are not in any collection can be found in the “Unfiled Items”
 special collection at the bottom of the collections list in the left
@@ -277,7 +276,7 @@ Zotero pane. If the “Unfiled Items” collection is not visible,
 right-click on “My Library” or the Group library name and choose “Show
 Unfiled Items”.
 
-#### Trash[\#](https://www.zotero.org/support/collections_and_tags#trash)
+### Trash[\#](https://www.zotero.org/support/collections_and_tags#trash)
 
 When you delete an item by pressing Delete (Cmd/Ctrl-Delete in a
 collection) or by right-clicking and choosing “Move Item(s) to Trash”,
@@ -304,7 +303,7 @@ style="width:1.69679in;height:2.55393in" /> | <img src="images/2ed7b95df77c91a26
 style="width:3.09375in;height:2.44792in" /> |
 |----|----|
 
-### Show Items from Subcollections[\#](https://www.zotero.org/support/collections_and_tags#show_items_from_subcollections)
+## Show Items from Subcollections[\#](https://www.zotero.org/support/collections_and_tags#show_items_from_subcollections)
 
 By default, items added to a subcollection do not automatically appear
 in parent collections. This can be changed by toggling “Show Items from
