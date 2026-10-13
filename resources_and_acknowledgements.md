@@ -20,3 +20,5 @@ nav_order: 20
 Site template adapted from the [just-the-docs](https://github.com/pmarsceill/just-the-docs) Jekyll template created by [Patrick Marsceil](https://github.com/pmarsceill) and available under the [MIT License](http://opensource.org/licenses/MIT)
 
 Copyright: UBC Library Research Commons, [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+
+Content sources: Much of the content in this guide is adapted from the [official Zotero documentation](https://www.zotero.org/support/). Some of the information there may refer to previous versions of Zotero, so the interface or steps you see may differ slightly from what is described here.
