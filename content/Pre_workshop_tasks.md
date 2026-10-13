@@ -4,9 +4,6 @@
  nav_order: 3.5
 ---
 
-This is the source that most of the following material is obtained from:
-<https://www.zotero.org/support/>
-
 # Getting started (Pre-workshop Tasks)
 
 ## Register for a free account
@@ -83,14 +80,14 @@ app](https://www.zotero.org/download/#), available for both
 [Android](https://play.google.com/store/apps/details?id=org.zotero.android)
 devices.
 
-# <span class="mark">Syncing</span>
+## <span class="mark">Syncing</span>
 
 While Zotero stores all data locally on your computer by default,
 Zotero’s sync functionality allows you to access your Zotero library on
 any computer with internet access. Zotero syncing has two parts: data
 syncing and file syncing.
 
-## Data Syncing[\#](https://www.zotero.org/support/sync#data_syncing)
+### Data Syncing[\#](https://www.zotero.org/support/sync#data_syncing)
 
 Data syncing merges library items, notes, links, tags, etc. — everything
 except attachment files — between your local computer and the Zotero
@@ -123,7 +120,7 @@ data from your online library.
 <img src="images/69d5f97559a69f0072f4bd83de55e28ef2dd9a56.png"
 style="width:4.19792in;height:6.5in" />
 
-## **File Syncing[\#](https://www.zotero.org/support/sync#file_syncing)**
+### File Syncing[\#](https://www.zotero.org/support/sync#file_syncing)
 
 Data syncing syncs library items, but doesn’t sync attached files (PDFs,
 audio and video files, images, etc.). To sync these files, you can
@@ -131,7 +128,7 @@ audio and video files, images, etc.). To sync these files, you can
 syncing</u>](https://www.zotero.org/support/preferences/sync#file_syncing)
 to accompany data syncing, using either Zotero Storage or WebDAV.
 
-### **Zotero Storage[\#](https://www.zotero.org/support/sync#zotero_storage)**
+#### Zotero Storage[\#](https://www.zotero.org/support/sync#zotero_storage)
 
 Zotero Storage is the recommended file sync option. It has several
 advantages over WebDAV syncing, including syncing of files in [group
@@ -152,32 +149,3 @@ your files into a local folder synced by your own cloud service (such as
 Google Drive, OneDrive, or Dropbox). Because Zotero only needs to sync
 lightweight text citations rather than bulky PDFs, you can expand your
 library indefinitely using the free storage you already own.
-
-# Adding Items to Your Zotero Library
-
-This section describes the various ways to add items (including books,
-journal articles, web pages, etc.) as items in Zotero.
-
-## Using Zotero Connector via your web browser
-
-For this you need to [install the Zotero
-Connector](https://www.zotero.org/download) for Chrome, Firefox, Edge,
-or Safari, in addition to the Zotero desktop app.
-
-The Zotero Connector’s save button is the most convenient and reliable
-way to add items with high-quality bibliographic metadata to your Zotero
-library. As you browse the web, the Zotero Connector will automatically
-find bibliographic information on webpages you visit and allow you to
-add it to Zotero with a single click.
-
-For example, if you’re on the main page for a journal article, the save
-button will change to the icon of a journal article
-<span class="mark">(circled in red):</span>
-
-<img src="images/65d4fc6a91596dd63a85551ed8cded33666d202f.png"
-style="width:4.18809in;height:0.51049in" />
-
-On a library catalog entry for a book, the save button will show a book
-icon:
-
-<img src="images/aaad326ebdfb8413cfbc16cb482c4142e4f34a16.png"
