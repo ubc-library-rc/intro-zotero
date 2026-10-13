@@ -1,11 +1,10 @@
 ---
  layout: default
- title: "Adding Items to Your Zotero Library" 
- nav_order: 4
+ title: "Organizing and Taking Notes" 
+ nav_order: 5
 ---
 
-# Adding Items to Your Zotero Library
-
+# Organizing and Taking Notes
 {: .no_toc }
 
 <details open markdown="block">
@@ -17,378 +16,300 @@
 {:toc}
 </details>
 
-This section describes the various ways to add items (including books,
-journal articles, web pages, etc.) as items in Zotero.
-
-## Using Zotero Connector via your web browser
-
-For this you need to [install the Zotero
-Connector](https://www.zotero.org/download) for Chrome, Firefox, Edge,
-or Safari, in addition to the Zotero desktop app.
-
-The Zotero Connector’s save button is the most convenient and reliable
-way to add items with high-quality bibliographic metadata to your Zotero
-library. As you browse the web, the Zotero Connector will automatically
-find bibliographic information on webpages you visit and allow you to
-add it to Zotero with a single click.
-
-For example, if you’re on the main page for a journal article, the save
-button will change to the icon of a journal article
-<span class="mark">(circled in red):</span>
-
-<img src="images/65d4fc6a91596dd63a85551ed8cded33666d202f.png"
-style="width:4.18809in;height:0.51049in" />
-
-On a library catalog entry for a book, the save button will show a book
-icon:
-
-<img src="images/aaad326ebdfb8413cfbc16cb482c4142e4f34a16.png"
-style="width:3.91721in;height:0.43756in" />
-
-Clicking the save button will create an item in Zotero with the
-information it has identified.
-
-On many sites, Zotero will also save any PDF accessible from the page or
-an open-access PDF that can be found for the saved item.
-
-<img src="images/e7cc48661b183ffacfd6acc9505fb54878ae3d05.png"
-style="width:3.61509in;height:1.67732in" />
-
-### Generic Webpages
-
-If you click the save button on webpages, Zotero will import the page as
-a “Web Page” item with a title, URL, access date and snapshot. Zotero
-can archive a webpage by creating a snapshot — an offline file
-reflecting the state of the page at the time the snapshot was taken.
-
-<img src="images/47c6ebe397491e51e2e38f44b173f4e1b873ac3f.png"
-style="width:4.60481in;height:0.82303in" />
-
-<img src="images/0003ae75cd40fe29ed2bd5335bc3a229ade76b31.png"
-style="width:3.72969in;height:1.67732in" />
-
-If the Zotero Connector does not recognize data on a page, you can save
-the page as a Web Page item with an attached snapshot by clicking the
-Zotero save button in the browser toolbar. You can also take a snapshot
-of any page by right-clicking (click-and-hold in Safari) on the Zotero
-save button and choosing “Save to Zotero (Web Page with Snapshot)”.
-
-<img src="images/c42d1fc17d8fe9b538725968d3af4549d4c7968d.png"
-style="width:5.70913in;height:3.77136in" />
-
-By default, Zotero will save snapshots when importing items from
-webpages. You can disable this setting in the [<u>Zotero
-preferences</u>](https://www.zotero.org/support/preferences/general).
-
-Such snapshots and PDFs are stored as copies in [<u>Zotero data
-directory</u>](https://www.zotero.org/support/zotero_data), and appear
-as child items of the saved item.
-
-### PDFs
-
-If you are viewing a PDF file in your browser, the save button will show
-a PDF icon. Clicking this button will import the PDF file alone into
-your library and then automatically attempt to [<u>retrieve
-metadata</u>](https://www.zotero.org/support/retrieve_pdf_metadata)
-about it. While this will often produce good results, it is usually
-better to use the save button from the publication’s abstract page or
-catalog entry, as described above, if there is one.
-
-If you save a PDF directly and Zotero isn’t able to retrieve metadata,
-it will leave the PDF as a standalone attachment. To add metadata,
-you’ll need to create a parent item, either by saving a regular
-bibliographic item and dragging the PDF on top of it or by
-right-clicking on the PDF, choosing Create Parent Item, and entering an
-identifier such as a DOI or ISBN. If all else fails, you can click
-Manual Entry after selecting Create Parent Item and manually enter
-metadata for the item.
-
-### Multiple Web Search Results
-
-On some webpages that contain information about multiple items (e.g., a
-list of Google Scholar search results), the save button will show a
-folder icon. Clicking this folder icon will open a window where you can
-select the items that you want to save to Zotero:
-
-<img src="images/05839f87e39ba9c54bb4480ba3098acd841cbdfe.png"
-style="width:2.7608in;height:0.9793in" />
-
-<img src="images/3bab63aa16e4ac5178fc969fd669bba8574d97d7.png"
-style="width:6.07376in;height:3.31296in" />
-
-### Saving to a Specific Collection or Library
-
-After you click the save button, a popup will appear indicating which
-Zotero collection the item is being saved to. If you want to save the
-item to a different collection or library, you can change the selection
-there, as well as enter tags to assign to the new item.
-
-<img src="images/57ead785a99f52c2539c2601a8e1d97a3bf261e4.png"
-style="width:3.78178in;height:4.85484in" />
-
-### <span class="mark">Data Quality and Choosing a Translator</span>
-
-The quality of the data Zotero imports is determined by the information
-supplied on the webpage. Some websites include high-quality data for
-tools like Zotero in the page itself (“embedded metadata”). Other
-websites provide only limited metadata (e.g., only the title of a blog
-post) or no metadata at all. For many sites, Zotero has website-specific
-“translators” to obtain the best quality metadata. Zotero recognizes
-almost all library catalogs, most news sites, research databases, and
-scientific publishers. (For more information, see Zotero’s
-[<u>compatible websites
-list</u>](https://www.zotero.org/support/translators).) Metadata for the
-same item may vary in quality across sites providing it. For example,
-importing an item from the publisher’s website will generally yield much
-better data than importing from Google Scholar.
-
-Zotero will generally choose the best translator available for each site
-automatically. You can choose an alternative translator by
-right-clicking on the Zotero save button (or the page background in
-Safari) and choosing one of the available options.
-
-## Add Item by Identifier
-
-<img src="images/c410335eacfca588aafe046044d6ca63b502056b.png"
-style="width:6.06335in;height:1.30226in" />
-
-You can quickly add items to your library if you already know their
-ISBN, DOI, PubMed ID, arXiv ID, or ADS Bibcode. Click the Add Item by
-Identifier button
-(<img src="images/4e4d6b143af8b5ae9b405ada3c400fe93cdcafb3.png"
-style="width:0.32223in;height:0.27908in" />) in the toolbar, type or
-paste in the identifier, and press Enter/Return on your keyboard. To add
-more than one item, separate identifiers by spaces, commas, or line
-breaks.
-
-To look up metadata, Zotero uses Library of Congress,
-[<u>WorldCat</u>](http://www.worldcat.org/), and other catalogs for
-ISBNs, [<u>CrossRef</u>](http://www.crossref.org/) and other registries
-for DOIs, [<u>NCBI PubMed</u>](http://www.ncbi.nlm.nih.gov/pubmed/) for
-PubMed IDs, [<u>arXiv.org</u>](https://arxiv.org/) for arXiv IDs, and
-[<u>ADS</u>](https://ui.adsabs.harvard.edu/) for ADS Bibcodes.
-
-## Drag and Drop[\#](https://www.zotero.org/support/attaching_files#drag_and_drop)
-
-Files can be copied into your library by dragging a file from your
-operating system’s file browser into the Zotero window, and either
-dropping it onto a collection in the left pane, or onto the center pane.
-Files dropped onto an existing regular Zotero item in the center pane
-are added as child items. Files dropped onto a collection, or in an
-empty space or between items in the center pane, are added as standalone
-items.
-
-By default, files dragged into Zotero are added as **copies** of the
-original files. To instead add **links** to the original files, hold
-down Ctrl+Shift (Windows/Linux) or Cmd+Option (Mac) while dropping. (On
-macOS, it may be necessary to allow the Zotero window to come to the
-front before letting go for the modifier key to take effect.)
-
-You can also drag and drop an existing standalone file item in Zotero
-onto a regular Zotero item to create a child item.
-
-### Stored Files
-
-Files can be added to your Zotero library as either stored files or
-linked files.
-
-Stored files, which are the default, are stored within the [<u>Zotero
-data directory</u>](https://www.zotero.org/support/zotero_data), and
-Zotero will automatically manage them, including deleting them if you
-delete the attachment item in Zotero. If you use [<u>file
-syncing</u>](https://www.zotero.org/support/sync), Zotero will
-automatically sync stored files between devices and make them available
-in your online library on zotero.org. If you add a stored file from a
-file on your computer, the file is copied to the Zotero data directory,
-so you may wish to delete the original to avoid confusion.
-
-To use stored files outside of Zotero, you can use Zotero’s search and
-organization abilities to quickly find the relevant items and then
-either drag the attachments straight from Zotero (e.g., into an email)
-or right-click and choose Show File to view the files in your file
-manager. If you prefer to find files without going through Zotero, you
-can use your operating system’s search features (e.g., Spotlight on
-macOS) or create a smart folder in your OS to show a list of all PDFs
-within your Zotero data directory and interact with the files directly.
-Zotero automatically renames files based on the parent item’s
-bibliographic data, so you can easily find files by title, author, or
-year even from outside Zotero.
-
-### Linked Files
-
-With linked files, Zotero only stores a link to the location of the
-original file on your computer. Linked files are not synced, nor are
-they deleted if the attachment item is deleted in Zotero. They also
-can’t be used within a group library, as there’s no guarantee that other
-group m embers would have access to the same file location. Linked files
-are also not supported in the [<u>Zotero iOS
-app</u>](https://apps.apple.com/us/app/zotero/id1513554812) or the
-[<u>Android
-app</u>](https://play.google.com/store/apps/details?id=org.zotero.android).
-
-You can add a linked file by selecting an existing item and choosing
-“Attach Link to File…” from the Add Attachment menu in the Zotero
-toolbar or, to use [<u>PDF metadata
-retrieval</u>](https://www.zotero.org/support/retrieve_pdf_metadata), by
-selecting “Link to File…” from the New Item menu. <span class="mark">You
-can also use the appropriate OS-specific modifier key for linking files
-while dragging in a file from the filesystem.</span>
-
-<img src="images/353bb2528a85afcc4a1ded6f4d5cb0688042cea5.png"
-style="width:6.5in;height:4.03125in" />
-
-If you sync linked files using an external tool (Google Drive, etc.) for
-use on multiple computers, it is a good idea to set the [<u>linked
-attachment base
-directory</u>](https://www.zotero.org/support/preferences/advanced#linked_attachment_base_directory)
-so that the files can be found by Zotero on each computer even if the
-containing folder is at a different location in the filesystem.
-
-If you wish to convert linked files to stored files in order to allow
-Zotero to manage them, you can do so from the Tools → Manage Attachments
-menu.
-
-<img src="images/5f1bc2bce22341ec411ca82135a9462824804672.png"
-style="width:4.28185in;height:2.56286in" />
-
-### Child versus Standalone Attachment Files
-
-Files can be added either as *standalone items* or as *child items* to
-regular Zotero bibliographic metadata items. It is generally always a
-good idea to work with files as child items. Standalone files cannot be
-used with many of Zotero’s features, including citing, My Publications,
-and most types of searching, because they lack bibliographic metadata.
-
-If you save a PDF directly to your library, Zotero will attempt to
-[<u>retrieve
-metadata</u>](https://www.zotero.org/support/retrieve_pdf_metadata) for
-it and create a parent item automatically. If the item can’t be
-recognized, you’ll be left with a standalone attachment. You can add a
-parent by either [<u>saving an item from the
-web</u>](https://www.zotero.org/support/adding_items_to_zotero) and
-dragging the PDF on top of it (if a PDF isn’t attached automatically) or
-by right-clicking on the PDF, choosing Create Parent Item, and entering
-an identifier such as a DOI or ISBN. If all else fails, you can click
-Manual Entry after selecting Create Parent Item and manually enter
-metadata for the item.
-
-#### Attachment Menu[\#](https://www.zotero.org/support/attaching_files#attachment_menu)
-
-When you have selected a single item in the center pane, you can click
-the “Add Attachment” button at the top of the center column. Select
-either “Attached Stored Copy of File…” or “Attach Link to File…” to add
-files as attachments to the item.
-
-<img src="images/bce25a308cfdc9c8b352afb5fbd2e0e2da69dad0.png"
-style="width:6.5in;height:1.80208in" />
-
-You can also “Attach Link to URI…” to add a link to a web page
-(<http://> or <https://>) or to another program on your computer (e.g.,
-OneNote <onenote://> or Evernote evernote://).
-
-These options are also available when you right-click an item and choose
-“Add Attachment”.
-
-<img src="images/353bb2528a85afcc4a1ded6f4d5cb0688042cea5.png"
-style="width:6.5in;height:4.03125in" />
-
-## Manually Adding Items[\#](https://www.zotero.org/support/adding_items_to_zotero#manually_adding_items)
-
-Zotero is designed to help you avoid manual entry whenever possible,
-however if you really need to add something manually — for example, a
-source that isn’t available anywhere online — you can do so by clicking
-“New Item”
-(<img src="images/5fbbf01c3fc9df133d78e78ee5bdd9dc17a2cb7e.png"
-style="width:0.33338in;height:0.29171in" />) button at the top of the
-middle pane and selecting the desired item type from the drop-down menu.
-An empty item of the selected item type will now appear in the center
-column. You can then manually enter the item’s bibliographic information
-via the right-hand pane.
-
-<img src="images/a9e9af1e106d19f51ffa1356a61be670ba0d81c5.png"
-style="width:2.50461in;height:1.01549in" /><img src="images/437e20f253b3ef6afa98395cf0c4a8d59aa6cb0a.png"
-style="width:2.65062in;height:1.60142in" />
-
-**Note:** Since it’s almost always better to visit a webpage in your
-browser and use the “Save to Zotero” button, the Web Page item type is
-not included in the “New Item” menu. However, if you really want to
-create a webpage item by hand, you create an empty item of another type
-and switch the item type to Web Page in the right-hand pane.
-
-## Accessing Files[\#](https://www.zotero.org/support/attaching_files#accessing_files)
-
-Files in your library can be accessed by double-clicking the item in the
-center pane. Alternatively, you can right-click the item and select
-“View PDF” or “View File”.
-
-To locate a stored (copied) or linked file, right-click the item in the
-Zotero pane and select “Show File”. Copied files are stored in the
-[<u>Zotero data
-directory</u>](https://www.zotero.org/support/zotero_data), and each
-file has its own subdirectory, which is named with a random 8-character
-string.
-
-<img src="images/b3a974484992ede9129bef0b369a727d026671a7.png"
-style="width:6.5in;height:2.19792in" />
-
-## Feeds
-
-Feeds are a great way to discover new research. With feeds, you can
-subscribe to updates from a journal, website, publisher, institution,
-research group, or other source and quickly find new articles or works.
-If you find an item in a publication’s feed that you want to save and
-read further, you can add it to your Zotero library with the click of a
-button.
-
-### Subscribing to Feeds[\#](https://www.zotero.org/support/feeds#subscribing_to_feeds)
-
-To subscribe to a feed, click File --\> New Feed in the Zotero Menu bar.
-You can add feeds in two ways. First, you can add a feed using the URL
-provided on the journal’s (or other source’s) website. For journals,
-these are usually available from the journal homepage. Look for the RSS
-icon (<img src="images/36e889a7cb351e3b8d6c1eac1bf9f9e8fd0f20d8.png"
-style="width:0.22321in;height:0.22321in" />) or search for the journal
-name and “RSS feed” in a search engine. Many publishers place the RSS
-icon next to social media buttons or email alert links.
-
-<img src="images/860562e1e75078e6d6e82728a53b761f59b5182e.png"
-style="width:1.68774in;height:2.11303in" />
-
-Once you’ve found the RSS feed URL for your source, click the Add Feed
-menu, then choose “From URL…”. The Add Feed window will open. Paste the
-RSS feed URL to the URL text field. If the URL is for a valid feed, you
-will be able to enter a title for the feed and click “Save”. You can
-click “Advanced Options” to adjust how frequently a feed updates and to
-set how long read and unread items are kept in a feed before being
-removed.
-
-<img src="images/988ffd41539f5d60726da15eaf398c88a027ad02.png"
-style="width:2.85308in;height:1.6961in" />
-
-You can also import a set of feeds using an OPML file (e.g., from a list
-of subscriptions exported from Feedly or other RSS Reader services). To
-import an OPML file, choose “From OPML…” from the Add Feed menu.
-
-### Reading Feeds[\#](https://www.zotero.org/support/feeds#reading_feeds)
-
-<img src="images/1dc51eb671a8951448d72ac88b44e5f2cb4c7036.png"
-style="width:6.5in;height:1.88542in" />
-
-Feeds you have subscribed to will appear at the bottom of the left pane
-of the Zotero window, below My Library and your Group Libraries and
-above the tag selector. Click on a feed to view currently available
-items in the feed. Right-click on a feed to manually refresh it, mark
-all items in the feed as read, modify feed settings, or unsubscribe from
-the feed.
-
-When viewing a feed, unread items will be shown in bold text, while read
-items are shown in regular text. When you select an item in the feed,
-you can mark it as read or unread by clicking the “Mark As Unread/Read”
-button or pressing the \` key. Save the item to your Zotero library by
-clicking on the “Save to My Library” button or pressing
-Ctrl/Cmd-Shift-S. You can save a feed item to a group library by
-clicking the dropdown arrow on the right side of the “Save to My
-Library” button and choosing the group library.
-
-*Note, the read/unread state of items is not synced across computers
-when using Zotero sync.*
+Items in Zotero libraries can be organized with collections (the name
+Zotero gives to folders) and tags.
+
+Collections allow hierarchical organization of items into groups and
+subgroups. The same item can belong to multiple collections and
+subcollections in your library at the same time. Collections are useful
+for filing items in meaningful groups (e.g., items for a particular
+project, from a specific source, on a specific topic, or for a
+particular course). You can import items directly to a specific
+collection or add them to collections after they are already in your
+library.
+
+Tags (often called “keywords” in other contexts) allow for detailed
+characterization of an item. You can tag items based on their topics,
+methods, status, ratings, or even based on your own workflow (e.g.,
+“to-read”). Items can have as many tags as you like, and you can filter
+your library (or a specific collection) to show items having a specific
+set of one or more tags.
+
+Tags are portable, but collections are not. Copying items between Zotero
+libraries (My Library and group libraries) will transfer their tags, but
+not their collection placements. Both organizational methods have unique
+advantages and features. Experiment with both to see what works best for
+your own workflow.
+
+## Collections[\#](https://www.zotero.org/support/collections_and_tags#collections)
+
+It is important to understand that items can belong to multiple
+collections and subcollections. Adding an item to multiple collections
+does not duplicate the item. In this sense, collections are more like
+music playlists than folders in your computer filesystem. Just as a
+single song can be added to more than one playlist, a single item in a
+Zotero library can be added to multiple collections.
+
+### Creating Collections[\#](https://www.zotero.org/support/collections_and_tags#creating_collections)
+
+Click the “New Collection…” button
+(<img src="images/609e7725909f58c0e75bdcce46650277d5730ee1.png"
+style="width:0.30213in;height:0.25003in" />) above the left pane in
+Zotero to add a new collection. You can also right-click on “My Library”
+or the name of a Group library and choose “New Collection…” to add a new
+collection. The new collection will appear as a folder under “My
+Library” or the selected Group library.
+
+<img src="images/bef8f2b55813b7ba4315a88b5c4ca5fe16d3f4f6.png"
+style="width:2.70871in;height:3.08376in" />
+
+Subcollections can be created by dragging and dropping an existing
+collection onto another collection or by right-clicking a collection and
+choosing “New Subcollection…”. You can convert a subcollection into a
+top-level collection by dragging it to the library root (e.g., “My
+Library”).
+
+You can drag collections between Zotero libraries in the left pane. If
+you have editing privileges for the destination library, the collection
+(and all of its items and subcollections) will be added to the
+destination library.
+
+### Adding Items to Collections[\#](https://www.zotero.org/support/collections_and_tags#adding_items_to_collections)
+
+New items are automatically saved into the collection selected at the
+time. When saving from the browser, you can choose a different
+collection from the popup after clicking the save button.
+
+To add existing items in your library to a collection, select them in
+the center pane and drag them onto the collection in the left pane. By
+default, the items will be added to the new collection but won’t be
+removed from their original location.
+
+To *move* items between collections, hold down Cmd (Mac) or Shift
+(Windows/Linux) when dragging items to the new collection. Remember that
+the “My Library” view always shows all items in your library, so you
+cannot “move” items out of this view. To see only items that do not
+belong to any collection in your library, open the [<u>Unfiled
+Items</u>](https://www.zotero.org/support/collections_and_tags#unfiled_items)
+special collection.
+
+### Renaming Collections[\#](https://www.zotero.org/support/collections_and_tags#renaming_collections)
+
+Right-click on the collection and choose “Rename Collection…” to give a
+collection a new name. Collections are sorted alphabetically in your
+library. You can use punctuation marks to sort collections to the top of
+the list.
+
+<img src="images/4569d49191309263a14f601604fd52645449eae2.png"
+style="width:3.97972in;height:4.72983in" />
+
+### Deleting Collections[\#](https://www.zotero.org/support/collections_and_tags#deleting_collections)
+
+Right-click on the collection and choose “Delete Collection…” to remove
+a collection from your library. Deleting a collection **does not
+delete** the items in the collection. Items are still accessible by
+clicking on My Library or the Group library name.
+
+Deleting a collection will also delete its subcollections (but not the
+items in them).
+
+<img src="images/0b80ed00cf0b1b8ef97dba82f6fc851fd2cee069.png"
+style="width:4.03181in;height:4.71941in" />
+
+To delete both the collection and its items, right-click on the
+collection and choose “Delete Collection and Items…”.
+
+<img src="images/7ce20eb6707389914c7f8164d1b975a28c205a65.png"
+style="width:4.21934in;height:4.60481in" />
+
+### Removing Items from a Collection[\#](https://www.zotero.org/support/collections_and_tags#removing_items_from_a_collection)
+
+Select a collection in the left Zotero pane, then select the items in
+the center pane that you want to remove from the collection. Press the
+Delete key to remove the items from the collection. You can also
+right-click the selected items and choose “Remove Item(s) from
+Collection…”. This only removes the items from the selected collection,
+not from “My Library” or any other collections.
+
+To *delete* an item in a collection, select the items in the collection,
+right-click on them, and choose “Move Item(s) to Trash…”. When “My
+Library” or a Group library name is selected in the left Zotero pane,
+pressing the Delete key will also move items to the trash. When a
+collection or subcollection is selected, press Cmd/Ctrl-Delete to move
+the items directly to the trash.
+
+<img src="images/7baece29682327226b009dbc46a61357cf7800cd.png"
+style="width:6.5in;height:4.0625in" />
+
+### Identifying Collections an Item is In[\#](https://www.zotero.org/support/collections_and_tags#identifying_collections_an_item_is_in)
+
+Zotero 7 and higher versions include a section in the item pane showing
+a list of collections an item is in. You can also select the item and
+then hold down the Option key (macOS), Control key (Windows), or Alt
+(Zotero 6)/Ctrl (Zotero 7) key (Linux). This will highlight all
+collections that contain the selected item.
+
+<img src="images/6260500bc50e0342e40d8305b28ec9e41b7d7cb5.png"
+style="width:6.5in;height:1.90625in" />
+
+### Saved Searches[\#](https://www.zotero.org/support/collections_and_tags#saved_searches)
+
+[<u>Saved
+Searches</u>](https://www.zotero.org/support/searching#saved_searches)
+are like smart collections. They automatically update to include all the
+items in your library that meet the search criteria. For example, you
+can create a “To Read” Saved Search with the criteria Tag is not read.
+Then, opening the Saved Search will show you all of the items in your
+library that you haven’t read yet (i.e., the ones without a “read” tag).
+To mark an item as read, add the “read” tag to it.
+
+| <img src="images/e7f9fff02e6054e476040b6de08490b5d461a794.png"
+style="width:2.19345in;height:1.67648in" /> | <img src="images/4608f2cde439b77c1549c2eb284c42b860d6f1be.png"
+style="width:3.34855in;height:1.60099in" /> |
+|----|----|
+
+### 
+
+### Special Collections[\#](https://www.zotero.org/support/collections_and_tags#special_collections)
+
+Zotero has four special collections: “My Publications”, “Duplicate
+Items”, “Unfiled Items”, and “Trash” which is listed on the left pane.
+
+<img src="images/c1ad9aab168b5898b4daa855b1cb8252d9c339a1.png"
+style="width:1.70857in;height:1.27101in" />
+
+#### My Publications[\#](https://www.zotero.org/support/collections_and_tags#my_publications)
+
+The [<u>My
+Publications</u>](https://www.zotero.org/support/my_publications)
+special collection allows you to create a list of your own work and
+share it publicly on your profile page on Zotero.org. You can add notes
+to each item and even share PDFs or other files under a license of your
+choice.
+
+To add an item, first add it to your library; then drag it from your
+library to “My Publications” to launch the My Publication wizard. You’ll
+be able to choose whether to include attached notes and files. Only add
+work you yourself have created, and only include files if you have the
+rights to distribute them publicly and wish to do so.
+
+<img src="images/a13e3969e2ffbb2fb61438ac24d3c6a10a26a003.png"
+style="width:6.29167in;height:6.5in" />
+
+<img src="images/4323ad0d3fed1be65d31b82e0c1865caae9a5486.png"
+style="width:6.25087in;height:6.46965in" />
+
+#### Duplicate Items[\#](https://www.zotero.org/support/collections_and_tags#duplicate_items)
+
+The [<u>Duplicate
+Items</u>](https://www.zotero.org/support/duplicate_detection) special
+collection displays items that Zotero has identified as potential
+duplicates. As you build your Zotero library, you may occasionally add
+the same item more than once. For example, you might save the same item
+twice from a webpage or import an item that is already in your library.
+You can use this collection to review and merge duplicate items.
+
+##### Finding Duplicates[\#](https://www.zotero.org/support/duplicate_detection#finding_duplicates)
+
+Clicking on the “Duplicate Items” collection in your library will show
+the items Zotero thinks are duplicates in the center pane.
+
+Zotero currently uses the the title, DOI, and ISBN fields to determine
+duplicates. If these fields match (or are absent), Zotero also compares
+the years of publication (if they are within a year of each other) and
+author/creator lists (if at least one author last name plus first
+initial matches) to determine duplicates. The algorithm will be improved
+in the future to incorporate other fields.
+
+<img src="images/bcde69ade02cb4bdc5fa3b3f3f962a76e96a0546.png"
+style="width:6.5in;height:2.89583in" />
+
+At this time, it is not possible to mark false positive matches as
+non-duplicates. This functionality will be added in the future.
+
+Note that duplicate detection only works *within a library*. Items in
+different group libraries are [<u>separate
+items</u>](https://www.zotero.org/support/groups#interact_with_groups_through_the_zotero_client).
+They won’t show up in the “Duplicate Items” collection of any one of the
+libraries.
+
+##### Merging Duplicates[\#](https://www.zotero.org/support/duplicate_detection#merging_duplicates)
+
+You should always resolve duplicate items by merging them, rather than
+deleting one of the duplicates. Merges will retain all of the
+collections and tags of the merged items; deleting one item will lose
+these data. Merges are also automatically recognized by the [<u>word
+processor
+plugins</u>](https://www.zotero.org/support/word_processor_integration)
+and don’t affect your automatically generated citations and
+bibliographies.
+
+To merge items in the “Duplicate Items” collection, select an item in
+the center pane. Zotero will automatically co-select the other items
+that it thinks are duplicates. Click the “Merge \<number\> Items” button
+in the right pane to merge the items. If the item fields don’t match
+completely, you can select one item to be the “master” from the list at
+the top of the right pane, then select alternative versions of
+mismatched fields using the icons to the right of each field.
+
+<img src="images/234eeac08295086f63784ef9530e9d68b170abce.png"
+style="width:6.5in;height:3.40625in" />
+
+It may be easier to see which items are selected if you [<u>sort the
+items by Title</u>](https://www.zotero.org/support/sorting). You can
+select a single item in the “Duplicate Items” view by holding down
+Alt/Option while clicking. You can de-select an item from a set of
+duplicates by holding down Ctrl (Windows/Linux) or Cmd (Mac) while
+clicking.
+
+You can also select a group of two or more items *of the same item type*
+anywhere in your Zotero library, right-click, and select “Merge Items…”
+from the context menu.
+
+<img src="images/73c08df913efdfdaf50addce925d5aa2315160d5.png"
+style="width:6.5in;height:4.125in" />
+
+#### Unfiled Items[\#](https://www.zotero.org/support/collections_and_tags#unfiled_items)
+
+Items that are not in any collection can be found in the “Unfiled Items”
+special collection at the bottom of the collections list in the left
+Zotero pane. If the “Unfiled Items” collection is not visible,
+right-click on “My Library” or the Group library name and choose “Show
+Unfiled Items”.
+
+#### Trash[\#](https://www.zotero.org/support/collections_and_tags#trash)
+
+When you delete an item by pressing Delete (Cmd/Ctrl-Delete in a
+collection) or by right-clicking and choosing “Move Item(s) to Trash”,
+they are moved to the Trash special collection. By default, items remain
+in the Trash for 30 days (you can adjust this period in the [<u>General
+pane</u>](https://www.zotero.org/support/preferences/general) of Zotero
+preferences; Click Edit --\> Settings --\> General Pane), after which
+they are deleted permanently. You can restore an item from the Trash to
+your library by selecting it in the Trash and clicking the “Restore to
+Library” button (or by right-clicking and choosing “Restore to
+Library”). You can delete an item permanently by clicking the “Delete
+Permanently…” button (or by right-clicking and choosing “Delete Item…”.
+
+<img src="images/55e53bd3cec10408ec56a1dce85f7ab48c2600e6.png"
+style="width:6.5in;height:2.03125in" />Or
+
+<img src="images/b3f851b37138ae760837056514b1c3b26c95e6bb.png"
+style="width:6.5in;height:2.61458in" />
+
+To update the preferences
+
+| <img src="images/dff92e79f3fc6233f4f6a3775c9002797af0feb5.png"
+style="width:1.69679in;height:2.55393in" /> | <img src="images/2ed7b95df77c91a26050b4a8f0cabbea08c8ba8e.png"
+style="width:3.09375in;height:2.44792in" /> |
+|----|----|
+
+### Show Items from Subcollections[\#](https://www.zotero.org/support/collections_and_tags#show_items_from_subcollections)
+
+By default, items added to a subcollection do not automatically appear
+in parent collections. This can be changed by toggling “Show Items from
+Subcollections” in the View menu. This setting is not currently
+available in the online library.
+
+<img src="images/672e4379f99f9f17cb61fea414eb54fc1357599a.png"
+style="width:3.7922in;height:3.82345in" />
