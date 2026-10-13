@@ -1,6 +1,6 @@
 ---
  layout: default
- title: "2026 draft content" 
+ title: "Adding Items to Your Zotero Library" 
  nav_order: 4
 ---
 
@@ -103,7 +103,7 @@ identifier such as a DOI or ISBN. If all else fails, you can click
 Manual Entry after selecting Create Parent Item and manually enter
 metadata for the item.
 
-### **Multiple Web Search Results**
+### Multiple Web Search Results
 
 On some webpages that contain information about multiple items (e.g., a
 list of Google Scholar search results), the save button will show a
@@ -116,7 +116,7 @@ style="width:2.7608in;height:0.9793in" />
 <img src="images/3bab63aa16e4ac5178fc969fd669bba8574d97d7.png"
 style="width:6.07376in;height:3.31296in" />
 
-### **Saving to a Specific Collection or Library**
+### Saving to a Specific Collection or Library
 
 After you click the save button, a popup will appear indicating which
 Zotero collection the item is being saved to. If you want to save the
@@ -126,7 +126,7 @@ there, as well as enter tags to assign to the new item.
 <img src="images/57ead785a99f52c2539c2601a8e1d97a3bf261e4.png"
 style="width:3.78178in;height:4.85484in" />
 
-### **<span class="mark">Data Quality and Choosing a Translator</span>**
+### <span class="mark">Data Quality and Choosing a Translator</span>
 
 The quality of the data Zotero imports is determined by the information
 supplied on the webpage. Some websites include high-quality data for
@@ -272,7 +272,7 @@ an identifier such as a DOI or ISBN. If all else fails, you can click
 Manual Entry after selecting Create Parent Item and manually enter
 metadata for the item.
 
-#### **Attachment Menu[\#](https://www.zotero.org/support/attaching_files#attachment_menu)**
+#### Attachment Menu[\#](https://www.zotero.org/support/attaching_files#attachment_menu)
 
 When you have selected a single item in the center pane, you can click
 the “Add Attachment” button at the top of the center column. Select
@@ -292,7 +292,7 @@ These options are also available when you right-click an item and choose
 <img src="images/353bb2528a85afcc4a1ded6f4d5cb0688042cea5.png"
 style="width:6.5in;height:4.03125in" />
 
-## **Manually Adding Items[\#](https://www.zotero.org/support/adding_items_to_zotero#manually_adding_items)**
+## Manually Adding Items[\#](https://www.zotero.org/support/adding_items_to_zotero#manually_adding_items)
 
 Zotero is designed to help you avoid manual entry whenever possible,
 however if you really need to add something manually — for example, a
@@ -315,7 +315,7 @@ not included in the “New Item” menu. However, if you really want to
 create a webpage item by hand, you create an empty item of another type
 and switch the item type to Web Page in the right-hand pane.
 
-## **Accessing Files[\#](https://www.zotero.org/support/attaching_files#accessing_files)**
+## Accessing Files[\#](https://www.zotero.org/support/attaching_files#accessing_files)
 
 Files in your library can be accessed by double-clicking the item in the
 center pane. Alternatively, you can right-click the item and select
@@ -340,7 +340,7 @@ If you find an item in a publication’s feed that you want to save and
 read further, you can add it to your Zotero library with the click of a
 button.
 
-### **Subscribing to Feeds[\#](https://www.zotero.org/support/feeds#subscribing_to_feeds)**
+### Subscribing to Feeds[\#](https://www.zotero.org/support/feeds#subscribing_to_feeds)
 
 To subscribe to a feed, click File --\> New Feed in the Zotero Menu bar.
 You can add feeds in two ways. First, you can add a feed using the URL
@@ -369,7 +369,7 @@ You can also import a set of feeds using an OPML file (e.g., from a list
 of subscriptions exported from Feedly or other RSS Reader services). To
 import an OPML file, choose “From OPML…” from the Add Feed menu.
 
-### **Reading Feeds[\#](https://www.zotero.org/support/feeds#reading_feeds)**
+### Reading Feeds[\#](https://www.zotero.org/support/feeds#reading_feeds)
 
 <img src="images/1dc51eb671a8951448d72ac88b44e5f2cb4c7036.png"
 style="width:6.5in;height:1.88542in" />
