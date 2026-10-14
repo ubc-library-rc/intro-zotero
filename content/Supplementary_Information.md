@@ -36,10 +36,8 @@ Quick search can be used in three different modes:
 
 - “Title, Year, Creator” - matches against these three fields, as well
   as publication titles
-
 - “All Fields & Tags” - matches against all fields, as well as tags and
   text in notes
-
 - “Everything” - matches against all fields, tags, text in notes, and
   indexed text in PDFs
 
@@ -177,8 +175,9 @@ choosing “Reindex Item”. If you are still having issues, please ask a
 question on the [<u>Zotero forums</u>](https://www.zotero.org/forum).
 
 <img src="images/28366de762ba3ab319316d8db2e6b967e6a0c831.png"
-style="width:6.5in;height:4.09375in" />Note: At this time, only
-PDF/EPUB/HTML full text content (and plain text files) can be indexed by
+style="width:6.5in;height:4.09375in" />
+
+Note: At this time, only PDF/EPUB/HTML full text content (and plain text files) can be indexed by
 Zotero. Other document types (e.g., .docx, .odt) cannot be indexed by
 Zotero.
 
@@ -206,7 +205,7 @@ the order in which they are shown in the drop-down menu. You can
 rearrange them by dragging and dropping the headers. To reset the order,
 select “Restore Column Order” in the drop-down menu.
 
-# Quick Copy[\#](https://www.zotero.org/support/creating_bibliographies#quick_copy)
+# Creating Bibliography Using Quick Copy[\#](https://www.zotero.org/support/creating_bibliographies#quick_copy)
 
 If you just want to quickly add references to a paper, email, or blog
 post, Zotero’s Quick Copy is the easiest way to go. Simply select items
@@ -342,19 +341,13 @@ It’s easy to migrate your data from other reference management tools to
 Zotero. Instructions for popular tools are linked below.
 
 - [<u>Mendeley</u>](https://www.zotero.org/support/kb/mendeley_import)
-
 - [<u>EndNote</u>](https://www.zotero.org/support/kb/endnote_import)
-
 - [<u>Citavi</u>](https://www.zotero.org/support/kb/import_from_citavi)
-
 - [<u>Microsoft Word Bibliography
   XML</u>](https://www.zotero.org/support/kb/importing_formatted_bibliographies)
-
 - [<u>Plain text reference
   lists</u>](https://www.zotero.org/support/kb/importing_formatted_bibliographies)
-
 - [<u>Bib(La)TeX</u>](https://www.zotero.org/support/kb/importing_standardized_formats)
-
 - [<u>JabRef</u>](https://www.zotero.org/support/kb/importing_standardized_formats)
 
 You can also import from other tools, such as Reference Manager,
