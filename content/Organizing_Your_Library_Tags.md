@@ -42,7 +42,7 @@ for tags. Type in the search box to see all tags that match. To go back
 to viewing all the tags in the collection, press the Escape key or click
 the “X” button on the right side of the search box.
 
-## Adding Tags to Items[\#](https://www.zotero.org/support/collections_and_tags#adding_tags_to_items)
+## Adding/Removing Tags to/from Items[\#](https://www.zotero.org/support/collections_and_tags#adding_tags_to_items)
 
 To add a tag to an item, select the item in the center Zotero pane, and
 then click the Tags icon in the right-hand pane. Click the Add button,
@@ -59,9 +59,6 @@ to quickly add the tag to all of those items.
 
 <img src="images/32b1cf8e88d889934a68cc6f563bb935d0133c7b.png"
 style="width:6.5in;height:3.02083in" />
-
-**Removing Tags from
-Items[\#](https://www.zotero.org/support/collections_and_tags#removing_tags_from_items)**
 
 To remove a tag from an item, select the item in the items list, click
 the Tags tab in the right-hand pane, and click the “-” (minus) button
@@ -84,11 +81,6 @@ rename a tag across all items it is assigned to, right-click the tag in
 the tag selector and choose “Rename Tag…”. To delete a tag from all
 items, right-click the tag and choose “Delete Tag…”. You can merge tags
 by renaming one to have the same name as the other.
-
-## Emoji Tags[\#](https://www.zotero.org/support/collections_and_tags#emoji_tags)
-
-If you use an emoji in a tag, it will be displayed directly in the items
-list.
 
 ## Colored Tags[\#](https://www.zotero.org/support/collections_and_tags#colored_tags)
 
@@ -124,7 +116,7 @@ like a colored tag, showing at the top of the tag selector and being
 assignable with a number key. Up to 9 tags can be assigned colors and
 numbers.
 
- Automatic Tags[\#](https://www.zotero.org/support/collections_and_tags#automatic_tags)
+## Automatic Tags[\#](https://www.zotero.org/support/collections_and_tags#automatic_tags)
 
 <img src="images/87e611af37f131c9ef4e84ff15a495c173b6b252.png"
 title="tag_actions_menu.png" style="width:5.41667in;height:1.84375in" />
