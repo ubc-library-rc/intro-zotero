@@ -71,7 +71,9 @@ from all of those items.
 <img src="images/a298857a5759ba392b43099a01e44be221123ad3.png"
 style="width:6.5in;height:1.875in" />
 
-or<img src="images/0e2532b73a4b64e7fdbc0b7f3fb78c18a8271801.png"
+or
+
+<img src="images/0e2532b73a4b64e7fdbc0b7f3fb78c18a8271801.png"
 style="width:6.5in;height:3.08333in" />
 
 ## Bulk Editing Tags[\#](https://www.zotero.org/support/collections_and_tags#bulk_editing_tags)
