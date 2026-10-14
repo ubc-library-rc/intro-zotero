@@ -297,3 +297,22 @@ available in the online library.
 
 <img src="images/672e4379f99f9f17cb61fea414eb54fc1357599a.png"
 style="width:3.7922in;height:3.82345in" />
+
+# Recently Read feature
+
+Zotero added a Recently Read collection to the top of the collections
+list. This is a virtual collection that shows the items in a library
+with attachments you've opened in the last two weeks, most recent first.
+It includes a Last Read column, which you can also add to other views if
+you'd like to.\
+\
+Opening an attachment or changing pages will bump the item to the top of
+the list. (Changing pages will only update its last-read time once every
+few minutes.)\
+\
+This data syncs between devices, so you can quickly find a file on
+another device that you've read elsewhere. We'll be adding this view to
+the mobile apps soon.
+
+<img src="images/faada82f887089ebdc586e1839cf724739448976.png"
+style="width:3.7922in;height:1.37519in" />
