@@ -37,7 +37,9 @@ style="width:0.16669in;height:0.18753in" />). You can also right-click
 an item and select “Add Note”.
 
 <img src="images/06aba5e864b5611c250742d21c8782857e5f8cd5.png"
-style="width:6.48958in;height:6.5in" />A note will be created as an
+style="width:6.48958in;height:6.5in" />
+
+A note will be created as an
 attachment to the item (it will also show up under the “Notes”), and a
 note editor will appear in the right-hand pane. You can create a
 dedicated window for the note editor by clicking the “Edit in a separate
@@ -83,11 +85,9 @@ You can embed images into Zotero notes by dragging them from your
 filesystem or, in some cases, by pasting them in. Embedded images sync
 between devices and count against your Zotero Storage quota.
 
-# Zotero PDF Reader and Note Editor
-
 # Creating Annotations[\#](https://www.zotero.org/support/pdf_reader#creating_annotations)
 
-## Highlights and Underlines[\#](https://www.zotero.org/support/pdf_reader#highlights_and_underlines)
+**Highlights and Underlines[\#](https://www.zotero.org/support/pdf_reader#highlights_and_underlines)**
 
 The reader supports two highlighting/underlining modes. You can use
 whichever mode works best for your workflow. In the default, unlocked
