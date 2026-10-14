@@ -4,6 +4,7 @@
  nav_order: 4
 ---
 
+# Building Your Zotero Library
 {: .no_toc }
 
 <details open markdown="block">
