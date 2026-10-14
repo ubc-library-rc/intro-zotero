@@ -3,7 +3,7 @@
  title: "Organizing Your Library" 
  nav_order: 5
 ---
-
+# Organizing Your Library
 {: .no_toc }
 
 <details open markdown="block">
@@ -153,21 +153,17 @@ style="width:6.5in;height:1.90625in" />
 
 ## Saved Searches[\#](https://www.zotero.org/support/collections_and_tags#saved_searches)
 
-[<u>Saved
-Searches</u>](https://www.zotero.org/support/searching#saved_searches)
-are like smart collections. They automatically update to include all the
+Saved searches are like smart collections. They automatically update to include all the
 items in your library that meet the search criteria. For example, you
 can create a “To Read” Saved Search with the criteria Tag is not read.
 Then, opening the Saved Search will show you all of the items in your
 library that you haven’t read yet (i.e., the ones without a “read” tag).
 To mark an item as read, add the “read” tag to it.
 
-| <img src="images/e7f9fff02e6054e476040b6de08490b5d461a794.png"
-style="width:2.19345in;height:1.67648in" /> | <img src="images/4608f2cde439b77c1549c2eb284c42b860d6f1be.png"
-style="width:3.34855in;height:1.60099in" /> |
-|----|----|
-
-## 
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start;">
+  <img src="images/e7f9fff02e6054e476040b6de08490b5d461a794.png" alt="Description of first screenshot" style="width: 210px; max-width: 100%;">
+  <img src="images/4608f2cde439b77c1549c2eb284c42b860d6f1be.png" alt="Description of second screenshot" style="width: 321px; max-width: 100%;">
+</div>
 
 ## Special Collections[\#](https://www.zotero.org/support/collections_and_tags#special_collections)
 
@@ -179,9 +175,7 @@ style="width:1.70857in;height:1.27101in" />
 
 ### My Publications[\#](https://www.zotero.org/support/collections_and_tags#my_publications)
 
-The [<u>My
-Publications</u>](https://www.zotero.org/support/my_publications)
-special collection allows you to create a list of your own work and
+The My Publications special collection allows you to create a list of your own work and
 share it publicly on your profile page on Zotero.org. You can add notes
 to each item and even share PDFs or other files under a license of your
 choice.
@@ -200,9 +194,7 @@ style="width:6.25087in;height:6.46965in" />
 
 ### Duplicate Items[\#](https://www.zotero.org/support/collections_and_tags#duplicate_items)
 
-The [<u>Duplicate
-Items</u>](https://www.zotero.org/support/duplicate_detection) special
-collection displays items that Zotero has identified as potential
+The Duplicate Items special collection displays items that Zotero has identified as potential
 duplicates. As you build your Zotero library, you may occasionally add
 the same item more than once. For example, you might save the same item
 twice from a webpage or import an item that is already in your library.
@@ -291,17 +283,12 @@ Library”). You can delete an item permanently by clicking the “Delete
 Permanently…” button (or by right-clicking and choosing “Delete Item…”.
 
 <img src="images/55e53bd3cec10408ec56a1dce85f7ab48c2600e6.png"
-style="width:6.5in;height:2.03125in" />Or
+style="width:6.5in;height:2.03125in" />
+
+or
 
 <img src="images/b3f851b37138ae760837056514b1c3b26c95e6bb.png"
 style="width:6.5in;height:2.61458in" />
-
-To update the preferences
-
-| <img src="images/dff92e79f3fc6233f4f6a3775c9002797af0feb5.png"
-style="width:1.69679in;height:2.55393in" /> | <img src="images/2ed7b95df77c91a26050b4a8f0cabbea08c8ba8e.png"
-style="width:3.09375in;height:2.44792in" /> |
-|----|----|
 
 ## Show Items from Subcollections[\#](https://www.zotero.org/support/collections_and_tags#show_items_from_subcollections)
 
