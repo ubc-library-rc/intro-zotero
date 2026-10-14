@@ -262,12 +262,6 @@ your citation/bibliography:
 <img src="images/949f8a07afd6999f06084c6e002b961cd8899ac1.png"
 style="width:6.5in;height:4.59375in" />
 
-## RTF Scan[\#](https://www.zotero.org/support/creating_bibliographies#rtf_scan)
-
-With [<u>RTF Scan</u>](https://www.zotero.org/support/rtf_scan), you can
-write in plain text, and use Zotero to finalize your citations and
-bibliographies in the style you want.
-
 # Citation Styles
 
 Zotero ships with several popular citation styles for [<u>creating
@@ -278,8 +272,6 @@ Repository</u>](https://www.zotero.org/styles). All these styles are
 written in the [<u>Citation Style
 Language</u>](https://citationstyles.org/) (CSL), a format also
 supported by many other programs.
-
-# Installing Additional Styles[\#](https://www.zotero.org/support/styles#installing_additional_styles)
 
 ## Zotero Style Repository[\#](https://www.zotero.org/support/styles#zotero_style_repository)
 
