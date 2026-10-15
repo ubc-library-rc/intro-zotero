@@ -45,14 +45,11 @@ style="width:6.5in;height:3.07292in" />
 
 - Private groups provide a means of collaboration among group members
   without creating any public face for the group online.
-
 - Only group members and users invited to join the group are able to see
   the group’s page.
-
 - Private groups are completely hidden from group searches. They are not
   shown on members’ public profile pages and will not appear in search
   engine results.
-
 - If administrators enable file sharing, group members can access and
   share files in addition to references.
 
@@ -62,13 +59,10 @@ style="width:6.5in;height:3.07292in" />
   environment with a public presence. This allows a group to publicly
   present its work and sources, or develop new membership in a
   controlled fashion.
-
 - Anyone can view the group page, but the only way to join the group is
   by invitation or by requesting an invitation.
-
 - If the group has a library, administrators can choose to show or hide
   the library from non-members.
-
 - If administrators enable file sharing, group members can access and
   share files in addition to references.
 
@@ -76,12 +70,9 @@ style="width:6.5in;height:3.07292in" />
 
 - Open public groups are useful for the broadest discussion and
   collaboration.
-
 - The group page is public, and anyone who wants to can join instantly.
-
 - If the group has a library, administrators can choose to show or hide
   the library from non-members.
-
 - Open public groups do not allow file sharing.
 
 ## Group Settings[\#](https://www.zotero.org/support/groups#group_settings)
@@ -137,7 +128,6 @@ changed from this page.
 **Library Reading** (Who can see items in this group’s library?):
 
 - Anyone on the internet
-
 - Any group member 
 
 **Library Editing** (Who can add, edit, and remove items from this
