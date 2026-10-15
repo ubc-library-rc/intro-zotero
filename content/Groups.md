@@ -1,6 +1,6 @@
 ---
  layout: default
- title: "Zotero Groups" 
+ title: "Groups" 
  nav_order: 9
 ---
 
@@ -28,7 +28,7 @@ Group Libraries are separate from your personal My Library, so you can
 also use Zotero groups as a way to keep separate libraries within one
 Zotero profile.
 
-## **Creating Groups[\#](https://www.zotero.org/support/groups#creating_groups)**
+## Creating Groups[\#](https://www.zotero.org/support/groups#creating_groups)
 
 To create a Zotero group in the Zotero Desktop App, go to File → New
 Group... Alternatively, you can click “Create a New Group**”** on the
@@ -39,9 +39,9 @@ Zotero.org. Then, select your preferred **Group Type** and click
 <img src="images/296cb2e4403119646de98fabde5ffe7d2653aa1c.png"
 style="width:6.5in;height:3.07292in" />
 
-## **Group Types[\#](https://www.zotero.org/support/groups#group_types)**
+## Group Types[\#](https://www.zotero.org/support/groups#group_types)
 
-### **Private Groups[\#](https://www.zotero.org/support/groups#private_groups)**
+### Private Groups[\#](https://www.zotero.org/support/groups#private_groups)
 
 - Private groups provide a means of collaboration among group members
   without creating any public face for the group online.
@@ -56,7 +56,7 @@ style="width:6.5in;height:3.07292in" />
 - If administrators enable file sharing, group members can access and
   share files in addition to references.
 
-### **Public, Closed Membership[\#](https://www.zotero.org/support/groups#public_closed_membership)**
+### Public, Closed Membership[\#](https://www.zotero.org/support/groups#public_closed_membership)
 
 - Closed-membership groups are useful for creating a controlled group
   environment with a public presence. This allows a group to publicly
@@ -72,7 +72,7 @@ style="width:6.5in;height:3.07292in" />
 - If administrators enable file sharing, group members can access and
   share files in addition to references.
 
-### **Public, Open Membership[\#](https://www.zotero.org/support/groups#public_open_membership)**
+### Public, Open Membership[\#](https://www.zotero.org/support/groups#public_open_membership)
 
 - Open public groups are useful for the broadest discussion and
   collaboration.
@@ -84,9 +84,9 @@ style="width:6.5in;height:3.07292in" />
 
 - Open public groups do not allow file sharing.
 
-## **Group Settings[\#](https://www.zotero.org/support/groups#group_settings)**
+## Group Settings[\#](https://www.zotero.org/support/groups#group_settings)
 
-### **Group Profile Settings[\#](https://www.zotero.org/support/groups#group_profile_settings)**
+### Group Profile Settings[\#](https://www.zotero.org/support/groups#group_profile_settings)
 
 This page allows you change the group’s name, description, academic
 discipline, and group type (private/public, open/closed). You can also
@@ -104,7 +104,7 @@ Group owners can also delete the group from this page.
 <img src="images/55eed67088a54094a35a9a9a6263440ae80414a9.png"
 style="width:6.5in;height:5.61458in" />
 
-### **Members Settings[\#](https://www.zotero.org/support/groups#members_settings)**
+### Members Settings[\#](https://www.zotero.org/support/groups#members_settings)
 
 There are three roles for users in groups: regular members,
 administrators, and group owners. Administrators can change a group’s
@@ -129,9 +129,9 @@ this page.
 <img src="images/7b1d87f979a715c4d928732f064b94dfd836bedc.png"
 style="width:6.5in;height:3.71875in" />
 
-### **Library Settings[\#](https://www.zotero.org/support/groups#library_settings)**
+### Library Settings[\#](https://www.zotero.org/support/groups#library_settings)
 
-**Group Type** The group type (private/public, open/closed) can be
+**Group Type**: The group type (private/public, open/closed) can be
 changed from this page.
 
 **Library Reading** (Who can see items in this group’s library?):
@@ -144,22 +144,19 @@ changed from this page.
 group’s library?):
 
 - Any group member 
-
 - Only group admins
 
 **File Editing** (Who can work with files stored in the group? Public
 Open groups cannot have file storage enabled.):
 
 - Any group member 
-
 - Only group admins
-
 - No group file storage
 
 <img src="images/597c2ebd7c5575a586c3703176d2e27f6fa24944.png"
 style="width:6.33333in;height:6.5in" />
 
-## **Interact With Groups Through the Zotero Client[\#](https://www.zotero.org/support/groups#interact_with_groups_through_the_zotero_client)**
+## Interact With Groups Through the Zotero Client[\#](https://www.zotero.org/support/groups#interact_with_groups_through_the_zotero_client)
 
 If you have [<u>enabled data
 syncing</u>](https://www.zotero.org/support/sync#data_syncing) and are a
