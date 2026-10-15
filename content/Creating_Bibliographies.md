@@ -1,6 +1,6 @@
 ---
  layout: default
- title: "In-text Citation and Bibliography" 
+ title: "In-text Citation & Bibliography" 
  nav_order: 8
 ---
 
