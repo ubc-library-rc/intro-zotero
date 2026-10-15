@@ -1,10 +1,10 @@
 ---
  layout: default
- title: "In-text Citation and Bibliographies" 
+ title: "In-text Citation and Bibliography" 
  nav_order: 8
 ---
 
-# How to do in-text citation and add automatic reference list
+# How to do in-text citations and add an automatic reference list
 {: .no_toc }
 
 <details open markdown="block">
@@ -32,8 +32,8 @@ include the cited item. Correct the title of an item in your Zotero
 library and with a click of a button the change will be incorporated in
 your documents.
 
-In the following we will only cover Microsoft Word, but the basics
-applies if you are using other word processors. [<u>Third-party
+In the following, we will only cover Microsoft Word, but the basics
+apply if you are using other word processors. [<u>Third-party
 plugins</u>](https://www.zotero.org/support/plugins#word_processor_and_writing_integration)
 are also available for integrating Zotero with other word processors and
 writing systems.
@@ -133,7 +133,7 @@ close the Add Citation box.
 In the Add Citation dialog box, you can click on the bubble for a cited
 item, then click “Show in Library” to view the item in Zotero. Items
 that are orphaned (not connected to any items in your Zotero database)
-will not have an this option. Orphaned items can exist if they were
+will not have this option. Orphaned items can exist if they were
 inserted by a collaborator from their My Library or a group you don’t
 have access to or if you they were deleted from your Zotero library.
 
@@ -364,5 +364,5 @@ accessibility and faster use.
 If you run into problems while trying to use the Zotero Word plugin,
 make sure to check out the [<u>word processor plugin
 troubleshooting</u>](https://www.zotero.org/support/word_processor_plugin_troubleshooting)
-page. If the problem still not resolved, reach out to citation
+page. If the problem is still not resolved, reach out to the citation
 management team for help.
