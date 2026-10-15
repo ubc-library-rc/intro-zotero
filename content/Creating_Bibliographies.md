@@ -4,7 +4,7 @@
  nav_order: 8
 ---
 
-# How to do in-text citations and add an automatic reference list
+# How to do in-text citation and add an automatic reference list
 {: .no_toc }
 
 <details open markdown="block">
@@ -38,9 +38,7 @@ plugins</u>](https://www.zotero.org/support/plugins#word_processor_and_writing_i
 are also available for integrating Zotero with other word processors and
 writing systems.
 
-## Zotero Word Plugin
-
-### Zotero Plugin Tab[\#](https://www.zotero.org/support/word_processor_plugin_usage#zotero_plugin_tab)
+# Zotero Plugin Tab[\#](https://www.zotero.org/support/word_processor_plugin_usage#zotero_plugin_tab)
 
 [<span class="mark"><u>Installing</u></span>](https://www.zotero.org/support/word_processor_plugin_installation)
 the Zotero Word plugin adds a Zotero tab to Microsoft Word. The Zotero
@@ -99,7 +97,7 @@ should usually only be done in a final copy of your document.</td>
 </tbody>
 </table>
 
-### Citing[\#](https://www.zotero.org/support/word_processor_plugin_usage#citing)
+## Citing[\#](https://www.zotero.org/support/word_processor_plugin_usage#citing)
 
 You can begin citing with Zotero by clicking the “Add/Edit Citation”
 (<img src="images/9c9902346ce96a15958e198903eaed4d8501f20a.png"
@@ -137,7 +135,7 @@ will not have this option. Orphaned items can exist if they were
 inserted by a collaborator from their My Library or a group you don’t
 have access to or if you they were deleted from your Zotero library.
 
-### Document Preferences/Citation Style[\#](https://www.zotero.org/support/word_processor_plugin_usage#document_preferences)
+## Document Preferences/Citation Style[\#](https://www.zotero.org/support/word_processor_plugin_usage#document_preferences)
 
 Clicking the “Document Preferences”
 (<img src="images/050936236d352846f96f71b782a7937adf201da0.png"
@@ -168,7 +166,7 @@ document-specific preferences:
 <img src="images/61850ee0d95531ac476ea363daeea11612db671c.png"
 style="width:5.98in;height:6.37589in" />
 
-### Customizing Citations[\#](https://www.zotero.org/support/word_processor_plugin_usage#customizing_citations)
+## Customizing Citations[\#](https://www.zotero.org/support/word_processor_plugin_usage#customizing_citations)
 
 Citations can be customized in various ways.
 
@@ -187,7 +185,7 @@ options window, where you can make the following changes.
 <img src="images/59bf21a969c049b4b3970edfae1b53863ab647f5.png"
 style="width:6.5in;height:2.79167in" />
 
-#### Page and Other Locators[\#](https://www.zotero.org/support/word_processor_plugin_usage#page_and_other_locators)
+### Page and Other Locators[\#](https://www.zotero.org/support/word_processor_plugin_usage#page_and_other_locators)
 
 In some cases you want to cite a certain part of an item, e.g. a certain
 page, page range or volume. This additional cite-specific information
@@ -204,7 +202,7 @@ Search for an item and, before or after selecting it, but before
 pressing Enter to insert the citation into the document, type “p.34”,
 “p34”, or even just “34”. The page number will be added to the citation.
 
-#### Prefix and Suffix[\#](https://www.zotero.org/support/word_processor_plugin_usage#prefix_and_suffix)
+### Prefix and Suffix[\#](https://www.zotero.org/support/word_processor_plugin_usage#prefix_and_suffix)
 
 The “Prefix” and “Suffix” text boxes allow you to specify text to
 respectively precede and follow the automatically generated cite.
@@ -221,7 +219,7 @@ entering text into the Prefix and Suffix fields is always preferable to
 directly typing in the citation fields in Word. Manual modifications
 will prevent Zotero from automatically updating the citation.
 
-#### Narrative Citations with Omit Author (“According to Smith (1776)”)[\#](https://www.zotero.org/support/word_processor_plugin_usage#narrative_citations_with_omit_author_according_to_smith_1776)
+### Narrative Citations with Omit Author[\#](https://www.zotero.org/support/word_processor_plugin_usage#narrative_citations_with_omit_author_according_to_smith_1776)
 
 With author-date styles, authors are often moved into the text and
 omitted from the following parentheses-enclosed citation, e.g.:
@@ -233,7 +231,7 @@ author’s name (“Smith”) as part of the regular text in your document.
 <img src="images/e8e83810dae54ade6c100b5f9f6ba412788eb9de.png"
 style="width:6.5in;height:3.21875in" />
 
-### Citations with Multiple Cited Items[\#](https://www.zotero.org/support/word_processor_plugin_usage#citations_with_multiple_cited_items)
+## Citations with Multiple Cited Items[\#](https://www.zotero.org/support/word_processor_plugin_usage#citations_with_multiple_cited_items)
 
 To create a citation containing multiple cites (e.g., “\[2,4-6\]” for
 numeric styles or “(Smith 1776, Schumpeter 1962)” for author-date
@@ -263,7 +261,7 @@ Sorted” option.
 <img src="images/c211c63baf0d236fd87f5b1eaea715ecc1cc4cb5.png"
 style="width:6.5in;height:1.35417in" />
 
-### Other Changes[\#](https://www.zotero.org/support/word_processor_plugin_usage#other_changes)
+## Other Changes[\#](https://www.zotero.org/support/word_processor_plugin_usage#other_changes)
 
 If your citation still isn’t displaying the way you want, you can edit
 the citation directly in your document, but note that doing so will
@@ -282,7 +280,7 @@ investigate and, if necessary, correct the style. If a style is updated,
 your document will automatically update to reflect any changes the next
 time you refresh the document.
 
-### Bibliography[\#](https://www.zotero.org/support/word_processor_plugin_usage#bibliography)
+## Bibliography[\#](https://www.zotero.org/support/word_processor_plugin_usage#bibliography)
 
 Clicking the “Add/Edit Bibliography” button
 (<img src="images/c9c3098cb4b9c96a943115495650ee8082bc8c84.png"
@@ -320,11 +318,8 @@ bibliography, including:
 
 - Adding asterisks \* before references included in a review or
   meta-analysis
-
 - Setting the names of particular authors in bold, italics, or all caps
-
 - Adding annotations or comments about an item
-
 - Adding headings for bibliography subsections (e.g., primary versus
   secondary sources)
 
@@ -333,7 +328,7 @@ bibliography, including:
 here. Corrections to item data should be made in your Zotero library,
 not here.
 
-### Keyboard Commands[\#](https://www.zotero.org/support/word_processor_plugin_usage#keyboard_commands)
+## Keyboard Commands[\#](https://www.zotero.org/support/word_processor_plugin_usage#keyboard_commands)
 
 The Zotero Word plugin can be used with just the keyboard for improved
 accessibility and faster use.
@@ -359,7 +354,7 @@ accessibility and faster use.
     list, and the space bar to toggle the “Omit Author” checkbox.
 
 
-#### Troubleshooting[\#](https://www.zotero.org/support/word_processor_plugin_usage#troubleshooting)
+## Troubleshooting[\#](https://www.zotero.org/support/word_processor_plugin_usage#troubleshooting)
 
 If you run into problems while trying to use the Zotero Word plugin,
 make sure to check out the [<u>word processor plugin
