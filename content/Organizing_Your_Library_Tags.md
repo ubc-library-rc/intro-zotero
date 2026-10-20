@@ -1,6 +1,6 @@
 ---
  layout: default
- title: "Organizing Your Library_Tags" 
+ title: "Organizing Your Library: Tags" 
  nav_order: 6
 ---
 
