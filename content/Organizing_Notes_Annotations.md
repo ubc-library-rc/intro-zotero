@@ -1,6 +1,6 @@
 ---
  layout: default
- title: "Organizing Your Library_Notes & Annotations" 
+ title: "Organizing Your Library: Notes & Annotations" 
  nav_order: 7
 ---
 # Notes and Annotations
