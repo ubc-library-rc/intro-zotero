@@ -1,6 +1,6 @@
 ---
  layout: default
- title: "Organizing Your Library_Collections" 
+ title: "Organizing Your Library: Collections" 
  nav_order: 5
 ---
 # Collections[\#](https://www.zotero.org/support/collections_and_tags#collections)
